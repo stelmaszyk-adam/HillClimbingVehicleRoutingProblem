@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ten_algorytm_bedzie_dzialal"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ten_algorytm_bedzie_dzialal">
+				<Option output="/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/cmake-build-debug/ten_algorytm_bedzie_dzialal" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/cmake-build-debug/Makefile&quot;  VERBOSE=1 ten_algorytm_bedzie_dzialal"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ten_algorytm_bedzie_dzialal/fast">
+				<Option output="/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/cmake-build-debug/ten_algorytm_bedzie_dzialal" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/cmake-build-debug/Makefile&quot;  VERBOSE=1 ten_algorytm_bedzie_dzialal/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/Customer.cpp">
+			<Option target="ten_algorytm_bedzie_dzialal"/>
+		</Unit>
+		<Unit filename="/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/Customer.h">
+			<Option target="ten_algorytm_bedzie_dzialal"/>
+		</Unit>
+		<Unit filename="/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/Problem.cpp">
+			<Option target="ten_algorytm_bedzie_dzialal"/>
+		</Unit>
+		<Unit filename="/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/Problem.h">
+			<Option target="ten_algorytm_bedzie_dzialal"/>
+		</Unit>
+		<Unit filename="/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/Solution.cpp">
+			<Option target="ten_algorytm_bedzie_dzialal"/>
+		</Unit>
+		<Unit filename="/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/Solution.h">
+			<Option target="ten_algorytm_bedzie_dzialal"/>
+		</Unit>
+		<Unit filename="/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/Trasa.cpp">
+			<Option target="ten_algorytm_bedzie_dzialal"/>
+		</Unit>
+		<Unit filename="/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/Trasa.h">
+			<Option target="ten_algorytm_bedzie_dzialal"/>
+		</Unit>
+		<Unit filename="/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/Vehicle.cpp">
+			<Option target="ten_algorytm_bedzie_dzialal"/>
+		</Unit>
+		<Unit filename="/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/Vehicle.h">
+			<Option target="ten_algorytm_bedzie_dzialal"/>
+		</Unit>
+		<Unit filename="/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/main.cpp">
+			<Option target="ten_algorytm_bedzie_dzialal"/>
+		</Unit>
+		<Unit filename="/Users/adamstelmaszyk/clion_project/ten_algorytm_bedzie_dzialal/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
